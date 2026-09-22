@@ -1,0 +1,44 @@
+# ===== Visual Studio =====
+.vs/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+
+# ===== Visual Studio Code =====
+.vscode/
+*.code-workspace
+
+# ===== JetBrains Rider =====
+.idea/
+
+# ===== Xcode =====
+*.xcuserstate
+xcuserdata/
+*.xcodeproj
+*.xcworkspace
+
+# ===== Unreal Engine generated folders =====
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+BuildConfig/
+
+# ===== Misc generated =====
+Autosaves/
+*.log
+*.tmp
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===== Python =====
+__pycache__/
+*.pyc
